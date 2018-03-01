@@ -28,7 +28,7 @@
         - Zmienne predefiniowane
     - Stałe
         - Stałe magiczne
-    - Wyrażenia
+    - Wyrażenia  
     - Operatory
          - Arytmetyczne
          - Przypisania

@@ -43,6 +43,7 @@ Zajęcia odbywać się będą cyklicznie:
 ## Listy zadań
 
 - [Lista 1](exercises/01-diamond-words.md)
+- [Lista 2](exercises/02-money-value-object.md)
 
 ## Notatki z wykładów
 
