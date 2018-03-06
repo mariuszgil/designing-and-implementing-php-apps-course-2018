@@ -49,7 +49,8 @@ Zajęcia odbywać się będą cyklicznie:
 
 Lista notatek z poszczególnych wykładów, wraz z linkami do dodatkowych materiałów uzupełniających
 
-- [Wykład 1, 23 luty 2018: Podstawy języka PHP, wprowadzenie do ekosystemu](notes/lectures/01-php-intro.md)  
+- [Wykład 1, 23 luty 2018: Podstawy języka PHP, wprowadzenie do ekosystemu](notes/lectures/01-php-intro.md)
+- [Wykład 2, 2 marzec 2018: Obiektowość, część 1](notes/lectures/02-objects.md)  
 
 
 ## Literatura
