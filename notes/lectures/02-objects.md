@@ -1,6 +1,6 @@
 # Projektowanie i implementacja zaawansowanych aplikacji PHP
 
-## Wykład 1: Obiektowość w języku PHP
+## Wykład 2: Obiektowość w języku PHP
 
 ### Zakres:
 
