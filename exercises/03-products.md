@@ -36,8 +36,8 @@ require 'vendor/autoload.php';
 
 ...
 
-$product1 = new Product("produkt 1", Money::PLN(10000);
-$product2 = new Product("produkt 2", Money::PLN(10000);
+$product1 = new Product("produkt 1", Money::PLN(10000));
+$product2 = new Product("produkt 2", Money::PLN(10000));
 $totalPrice = Money::PLN(0);
 
 

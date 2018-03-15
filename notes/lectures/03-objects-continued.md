@@ -52,10 +52,6 @@
         - Liskov Substitution Principle
         - Interface Segregation Principle
         - Dependency Inversion Principle
-- HTTP Flow
-    - Request, Response
-    - Mechanizm sesji
-    - Tablice superglobalne vs PSR-7 HTTP message interfaces
      
 ### Przykładowe programy
 

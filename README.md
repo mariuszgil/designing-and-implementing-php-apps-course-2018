@@ -45,6 +45,8 @@ Zajęcia odbywać się będą cyklicznie:
 - [Lista 1](exercises/01-diamond-words.md)
 - [Lista 2](exercises/02-money-value-object.md)
 - [Lista 3](exercises/03-products.md)
+- [Lista 4](exercises/04-rest-api.md)
+
 
 ## Notatki z wykładów
 
@@ -52,7 +54,8 @@ Lista notatek z poszczególnych wykładów, wraz z linkami do dodatkowych materi
 
 - [Wykład 1, 23 luty 2018: Podstawy języka PHP, wprowadzenie do ekosystemu](notes/lectures/01-php-intro.md)
 - [Wykład 2, 2 marzec 2018: Obiektowość, część 1](notes/lectures/02-objects.md)
-- [Wykład 3, 9 marzec 2018: Obiektowość, część 2, HTTP Flow](notes/lectures/02-objects-continued.md)  
+- [Wykład 3, 9 marzec 2018: Obiektowość, część 2](notes/lectures/03-objects-continued.md)
+- [Wykład 4, 16 marzec 2018: HTTP Flow](notes/lectures/04-http-flow.md)  
 
 
 ## Literatura
