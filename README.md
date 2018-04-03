@@ -56,7 +56,7 @@ Lista notatek z poszczególnych wykładów, wraz z linkami do dodatkowych materi
 - [Wykład 2, 2 marzec 2018: Obiektowość, część 1](notes/lectures/02-objects.md)
 - [Wykład 3, 9 marzec 2018: Obiektowość, część 2](notes/lectures/03-objects-continued.md)
 - [Wykład 4, 16 marzec 2018: HTTP Flow](notes/lectures/04-http-flow.md)  
-- [Wykład 5, 23 marzec 2018: Tempaltes](notes/lectures/05-templates.md)  
+- [Wykład 5, 23 marzec 2018: Templates](notes/lectures/05-templates.md)  
 
 
 ## Literatura
