@@ -46,6 +46,7 @@ Zajęcia odbywać się będą cyklicznie:
 - [Lista 2](exercises/02-money-value-object.md)
 - [Lista 3](exercises/03-products.md)
 - [Lista 4](exercises/04-rest-api.md)
+- [Lista 5](exercises/05-cart-rules.md)
 
 
 ## Notatki z wykładów
