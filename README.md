@@ -47,6 +47,7 @@ Zajęcia odbywać się będą cyklicznie:
 - [Lista 3](exercises/03-products.md)
 - [Lista 4](exercises/04-rest-api.md)
 - [Lista 5](exercises/05-cart-rules.md)
+- [Lista 6](exercises/06-rpn-calculator.md)
 
 
 ## Notatki z wykładów
@@ -57,7 +58,8 @@ Lista notatek z poszczególnych wykładów, wraz z linkami do dodatkowych materi
 - [Wykład 2, 2 marzec 2018: Obiektowość, część 1](notes/lectures/02-objects.md)
 - [Wykład 3, 9 marzec 2018: Obiektowość, część 2](notes/lectures/03-objects-continued.md)
 - [Wykład 4, 16 marzec 2018: HTTP Flow](notes/lectures/04-http-flow.md)  
-- [Wykład 5, 23 marzec 2018: Templates](notes/lectures/05-templates.md)  
+- [Wykład 5, 23 marzec 2018: Templates](notes/lectures/05-templates.md)
+- [Wykład 6, 6 kwiecień 2018: Testy jednostkowe, TDD](notes/lectures/06-testing.md)  
 
 
 ## Literatura
