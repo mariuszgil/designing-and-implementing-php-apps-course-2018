@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "ECommerce\\": "src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^7.1",
+        "beberlei/assert": "^2.9"
+    }
+}

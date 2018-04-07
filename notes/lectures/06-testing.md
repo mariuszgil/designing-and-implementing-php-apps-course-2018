@@ -62,9 +62,21 @@
      
 ### Przykładowe programy
 
+Przykładowy kod znajduje się w katalogu [code/06-testing](code/06-testing).
 
-```php
-...
+```
+$ composer install
+$ ./vendor/bin/phpunit
+PHPUnit 7.1.1 by Sebastian Bergmann and contributors.
+
+Runtime:       PHP 7.2.0 with Xdebug 2.6.0rc1
+Configuration: designing-and-implementing-php-apps-course/notes/lectures/code/06-testing/phpunit.xml.dist
+
+......                                                              6 / 6 (100%)
+
+Time: 64 ms, Memory: 6.00MB
+
+OK (6 tests, 6 assertions)
 ```
 
 
