@@ -48,6 +48,7 @@ Zajęcia odbywać się będą cyklicznie:
 - [Lista 4](exercises/04-rest-api.md)
 - [Lista 5](exercises/05-cart-rules.md)
 - [Lista 6](exercises/06-rpn-calculator.md)
+- [Lista 7](exercises/07-money-wallet.md)
 
 
 ## Notatki z wykładów
@@ -59,7 +60,8 @@ Lista notatek z poszczególnych wykładów, wraz z linkami do dodatkowych materi
 - [Wykład 3, 9 marzec 2018: Obiektowość, część 2](notes/lectures/03-objects-continued.md)
 - [Wykład 4, 16 marzec 2018: HTTP Flow](notes/lectures/04-http-flow.md)  
 - [Wykład 5, 23 marzec 2018: Templates](notes/lectures/05-templates.md)
-- [Wykład 6, 6 kwiecień 2018: Testy jednostkowe, TDD](notes/lectures/06-testing.md)  
+- [Wykład 6, 6 kwiecień 2018: Testy jednostkowe, TDD](notes/lectures/06-testing.md) 
+- [Wykład 7, 13 kwiecień 2018: Modelowanie domeny, podejście zdarzeniowe](notes/lectures/07-domain-modeling-events.md)  
 
 
 ## Literatura
