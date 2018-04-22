@@ -49,6 +49,7 @@ Zajęcia odbywać się będą cyklicznie:
 - [Lista 5](exercises/05-cart-rules.md)
 - [Lista 6](exercises/06-rpn-calculator.md)
 - [Lista 7](exercises/07-money-wallet.md)
+- [Lista 8](exercises/08-command-bus.md)
 
 
 ## Notatki z wykładów
@@ -61,7 +62,8 @@ Lista notatek z poszczególnych wykładów, wraz z linkami do dodatkowych materi
 - [Wykład 4, 16 marzec 2018: HTTP Flow](notes/lectures/04-http-flow.md)  
 - [Wykład 5, 23 marzec 2018: Templates](notes/lectures/05-templates.md)
 - [Wykład 6, 6 kwiecień 2018: Testy jednostkowe, TDD](notes/lectures/06-testing.md) 
-- [Wykład 7, 13 kwiecień 2018: Modelowanie domeny, podejście zdarzeniowe](notes/lectures/07-domain-modeling-events.md)  
+- [Wykład 7, 13 kwiecień 2018: Modelowanie domeny, podejście zdarzeniowe](notes/lectures/07-domain-modeling-events.md)
+- [Wykład 8, 20 kwiecień 2018: Modelowanie domeny, Event Storming](notes/lectures/08-domain-modeling-event-storming.md)  
 
 
 ## Literatura
