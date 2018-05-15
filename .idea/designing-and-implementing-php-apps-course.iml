@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/silex/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/silex/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/silex/vendor/pimple/pimple" />
+      <excludeFolder url="file://$MODULE_DIR$/silex/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/silex/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/silex/vendor/silex/silex" />
+      <excludeFolder url="file://$MODULE_DIR$/silex/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/silex/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/silex/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/silex/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/silex/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/silex/vendor/symfony/polyfill-php70" />
+      <excludeFolder url="file://$MODULE_DIR$/silex/vendor/symfony/routing" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

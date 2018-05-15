@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/silex/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/silex/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/silex/vendor/pimple/pimple" />
+      <path value="$PROJECT_DIR$/silex/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/silex/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/silex/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/silex/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/silex/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/silex/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/silex/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/silex/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/silex/vendor/silex/silex" />
+      <path value="$PROJECT_DIR$/silex/vendor/composer" />
+    </include_path>
+  </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
 </project>

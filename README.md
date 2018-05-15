@@ -50,6 +50,7 @@ Zajęcia odbywać się będą cyklicznie:
 - [Lista 6](exercises/06-rpn-calculator.md)
 - [Lista 7](exercises/07-money-wallet.md)
 - [Lista 8](exercises/08-command-bus.md)
+- [Lista 9](exercises/09-process-manager.md) [Termin: 25 maja]
 
 
 ## Notatki z wykładów
@@ -63,7 +64,8 @@ Lista notatek z poszczególnych wykładów, wraz z linkami do dodatkowych materi
 - [Wykład 5, 23 marzec 2018: Templates](notes/lectures/05-templates.md)
 - [Wykład 6, 6 kwiecień 2018: Testy jednostkowe, TDD](notes/lectures/06-testing.md) 
 - [Wykład 7, 13 kwiecień 2018: Modelowanie domeny, podejście zdarzeniowe](notes/lectures/07-domain-modeling-events.md)
-- [Wykład 8, 20 kwiecień 2018: Modelowanie domeny, Event Storming](notes/lectures/08-domain-modeling-event-storming.md)  
+- [Wykład 8, 20 kwiecień 2018: Modelowanie domeny, Event Storming](notes/lectures/08-domain-modeling-event-storming.md)
+- [Wykład 9, 27 kwiecień 2018: Modelowanie, integracja](notes/lectures/09-modeling-integration.md)  
 
 
 ## Literatura
