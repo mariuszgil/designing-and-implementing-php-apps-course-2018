@@ -51,6 +51,7 @@ Zajęcia odbywać się będą cyklicznie:
 - [Lista 7](exercises/07-money-wallet.md)
 - [Lista 8](exercises/08-command-bus.md)
 - [Lista 9](exercises/09-process-manager.md) [Termin: 25 maja]
+- [Lista 10](exercises/10-database-repository.md)
 
 
 ## Notatki z wykładów
