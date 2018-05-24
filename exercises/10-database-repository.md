@@ -15,7 +15,7 @@ class Transaction
      *
      * Klasa Uuid pochodzi z biblioteki ramsey/uuid
      */ 
-    private Uuid;
+    private $uuid;
     
     /**
      * @var Money
