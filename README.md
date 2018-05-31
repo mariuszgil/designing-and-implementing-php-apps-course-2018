@@ -53,6 +53,7 @@ Zajęcia odbywać się będą cyklicznie:
 - [Lista 9](exercises/09-process-manager.md) [Termin: 25 maja]
 - [Lista 10](exercises/10-database-repository.md)
 - [Lista 11](exercises/11-database-performance.md)
+- [Lista 12](exercises/12-web-performance.md)
 
 
 ## Notatki z wykładów
@@ -69,7 +70,8 @@ Lista notatek z poszczególnych wykładów, wraz z linkami do dodatkowych materi
 - [Wykład 8, 20 kwiecień 2018: Modelowanie domeny, Event Storming](notes/lectures/08-domain-modeling-event-storming.md)
 - [Wykład 9, 27 kwiecień 2018: Modelowanie, integracja](notes/lectures/09-modeling-integration.md)
 - Wykład 10, 18 maj 2018: Bazy danych, część 1
- - [Wykład 11, 25 maj 2018: Bazy danych, część 2](notes/lectures/11-databases-continued.md)
+- [Wykład 11, 25 maj 2018: Bazy danych, część 2](notes/lectures/11-databases-continued.md)
+- [Wykład 12, 1 czerwiec 2018: Wydajność i skalowalność](notes/lectures/12-performance-and-scalability.md)
 
 
 ## Literatura
