@@ -54,6 +54,7 @@ Zajęcia odbywać się będą cyklicznie:
 - [Lista 10](exercises/10-database-repository.md)
 - [Lista 11](exercises/11-database-performance.md)
 - [Lista 12](exercises/12-web-performance.md)
+- [Lista 13](exercises/13-automation.md)
 
 
 ## Notatki z wykładów
@@ -72,6 +73,7 @@ Lista notatek z poszczególnych wykładów, wraz z linkami do dodatkowych materi
 - Wykład 10, 18 maj 2018: Bazy danych, część 1
 - [Wykład 11, 25 maj 2018: Bazy danych, część 2](notes/lectures/11-databases-continued.md)
 - [Wykład 12, 1 czerwiec 2018: Wydajność i skalowalność](notes/lectures/12-performance-and-scalability.md)
+- [Wykład 13, 8 czerwiec 2018: Deployment aplikacji](notes/lectures/13-deployment.md)
 
 
 ## Literatura
