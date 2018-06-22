@@ -39,6 +39,16 @@ Zajęcia odbywać się będą cyklicznie:
     - 90% na ocenę bardzo dobrą,
     - oceny pośrednie są ustalane liniowo względem określonych powyżej wartości
 
+    
+### UWAGA!
+
+Terminy dodatkowych spotkań w Instytucie Informatyki, podczas których będzie można oddać zaległe rozwiązania oraz porozmawiać na tematy związane z kursem (ale nie tylko ;):
+
+- poniedziałek 25.06, 8.30-10.30
+- wtorek 26.06, 8.30-10.30
+
+Miejsce: parter Instytutu
+
 
 ## Listy zadań
 
