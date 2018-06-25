@@ -84,6 +84,7 @@ Lista notatek z poszczególnych wykładów, wraz z linkami do dodatkowych materi
 - [Wykład 11, 25 maj 2018: Bazy danych, część 2](notes/lectures/11-databases-continued.md)
 - [Wykład 12, 1 czerwiec 2018: Wydajność i skalowalność](notes/lectures/12-performance-and-scalability.md)
 - [Wykład 13, 8 czerwiec 2018: Deployment aplikacji](notes/lectures/13-deployment.md)
+- [Wykład 14/15, 15 czerwiec 2018: Monitoring aplikacji](notes/lectures/14-15-monitoring-others.md)
 
 
 ## Literatura
