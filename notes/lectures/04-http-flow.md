@@ -60,6 +60,7 @@
 ### Materiały uzupełniające
 
 - [Kody HTTP](http://www.restapitutorial.com/httpstatuscodes.html)
+- [Koty HTTP](https://http.cat)
 - [Sesje w PHP, dokumentacja](http://php.net/manual/en/book.session.php)
 - [Cookies, dokumentacja](http://php.net/manual/en/features.cookies.php)
 - [Mikroframework Silex](http://silex.symfony.com)
